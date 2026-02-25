@@ -7,11 +7,12 @@
 /dataSources/
 /dataSources.local.xml
 
-
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
 .kotlin
 
 ### Eclipse ###
@@ -38,3 +39,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Maven ###
+target/
+dependency-reduced-pom.xml
+
+### Application Output ###
+output/
