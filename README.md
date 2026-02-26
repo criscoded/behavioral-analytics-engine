@@ -104,5 +104,11 @@ behavioral-analytics-engine/
  * The distributed ```.snappy.parquet``` files
  * A ```behavioral-output.txt``` file containing the formatted analyst report
 
+## ![Results](https://img.shields.io/badge/Results-8A2BE2?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+![SuccessConfirmation](https://github.com/user-attachments/assets/4493891f-62f1-48e1-bff0-1340ec54e7fb)
+![TextOutput](https://github.com/user-attachments/assets/4a26b036-8596-42fe-8add-ebbd3de4bb69) 
+
+
 ## 📝 License  
 Distributed under the MIT License. See LICENSE for more information.
